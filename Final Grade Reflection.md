@@ -1,1 +1,1 @@
-# I will be evaluating/reflectin my perforance in this file at the end of of semester, and discuss the grade I should recieve with my reasoning and proof
+# I will be evaluating/reflecting my performance in this file at the end of of semester, and discuss the grade I should receive with my reasoning and 
