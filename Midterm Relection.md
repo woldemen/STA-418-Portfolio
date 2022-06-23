@@ -7,9 +7,7 @@ how I believe my project will cover the objectives.
 
 1. Import, manage, and clean data.
   
-  I scraped my own data for this project. Even though other people have done sports and NBA project, mine is unique given that this data I have has never been used for
-  any data science projects. Cleaning this data before any analysis, and managing the data through the lifecyle of the entirety of the project will allow me to satify
-  this objective
+    I scraped my own data for this project. Even though other people have done sports and NBA project, mine is unique given that this data I have has never been used       for any data science projects. Cleaning this data before any analysis, and managing the data through the lifecyle of the entirety of the project will allow me to       satify this objective.
 
 2. Create graphical displays and numerical summaries of data for exploratory analysis and presentations
     
